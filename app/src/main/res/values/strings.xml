@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WeChat NoteTaker</string>
+    <string name="xposed_description">Detects and Stores Keywords</string>
+</resources>

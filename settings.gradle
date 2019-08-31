@@ -1,0 +1,2 @@
+rootProject.name='WeChatGenius'
+include ':app'
